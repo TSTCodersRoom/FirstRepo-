@@ -1,0 +1,9 @@
+This is a Git Tuto Test.
+<<<<<<< HEAD
+
+This is a new line
+
+=======
+Hello World
+Added data from Repo B
+>>>>>>> bfe4ce6 (Commit from Repo B)
